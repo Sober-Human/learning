@@ -1,2 +1,3 @@
 # learning
-first github repository for learning.
+First GitHub repository for learning.
+Author - Sayyed Anas
