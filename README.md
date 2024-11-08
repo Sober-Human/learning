@@ -1,3 +1,4 @@
 # learning
 First GitHub repository for learning.
-Author - Sayyed Anas
+<br>
+Author - Sayyed Muhammad Anas
