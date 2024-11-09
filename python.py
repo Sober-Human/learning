@@ -1,1 +1,2 @@
 print("I WOLD NEVER STOP LEARNING AND UPGRADING")
+print(5 + 5)
